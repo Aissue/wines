@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="wines"
+  id="myeclipse.1474378230797"
+  context-root="/wines"
+  j2ee-spec="5.0"
+  archive="wines.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
