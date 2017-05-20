@@ -7,6 +7,11 @@ import java.io.InputStream;
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.util.Properties;
+/**
+ * DBUtil数据库相关操作
+ * @author Aissue
+ *
+ */
 
 public class DBUtil {
 	private static String url=null;
